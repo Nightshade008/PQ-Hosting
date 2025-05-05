@@ -1,8 +1,10 @@
 # PQ Hosting Coupon: Save 10% on Lightning-Fast VPS Today!
 
+[![PQ Hosting](https://res.cloudinary.com/dav29ivcg/image/upload/v1746424418/PQ_Hosting_ubbbo8.png)](https://pq.hosting/?from=623877)
+
 Score an exclusive **10% discount** on PQ Hosting VPS plans with our special coupon code! PQ Hosting delivers high-performance virtual private servers designed for **speed, reliability, and serious value**.
 
-👉 <a href="https://pq.hosting/?from=623877" target="_blank">Claim Your VPS Deal Now</a>
+[![Claim Your VPS Deal Now](https://res.cloudinary.com/dav29ivcg/image/upload/v1746424417/Claim_Your_VPS_Deal_Now_s1mlrs.png)](https://pq.hosting/?from=623877)
 
 Starting at just **€4.29/month after discount**, use code `PQ10OFF` at checkout to slash your hosting costs – but hurry, this offer won’t last!
 
